@@ -1,1 +1,1 @@
-# wpseccure
+# WPSeccure - WordPress Security Plugin
